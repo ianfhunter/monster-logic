@@ -27,5 +27,25 @@
     "tags": [],
     "color": "DarkGreen",
     "icon": "goblin-head"
+  },
+  {
+    "count": 1,
+    "title": "Zombie",
+    "contents": [
+      "property | target priority | closest",
+      "property | likes | brains",
+      "property | hates | ",
+      "fill ",
+      "section | logic ",
+      "property | if | at range",
+      "bullet |  move",
+      "bullet |  move",
+      "property | if | in melee",
+      "bullet |  attack",
+      "fill | 8"
+    ],
+    "tags": [],
+    "color": "dimgray",
+    "icon": "shambling-zombie"
   }
 ]
