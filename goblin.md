@@ -4,7 +4,7 @@
 
 **Dislikes:** Humans, Horses
 
-**Targets:** Low Remaining HP
+**Targets:** Lowest Remaining HP
 
 ```mermaid
 flowchart TD 
