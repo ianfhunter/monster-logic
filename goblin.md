@@ -1,5 +1,7 @@
 # Goblin 
+
 **Likes:** Gold, Goblins
+
 **Dislikes:** Humans, Horses
 
 **Targets:** Low Remaining HP
