@@ -1,8 +1,8 @@
-# Zombie
+# Zombie / Undead Melee
 
 **Likes:** Brains
 
-**Dislikes:** 
+**Dislikes:** Clerics
 
 **Targets:** Closest
 
