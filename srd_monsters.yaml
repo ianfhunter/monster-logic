@@ -256,8 +256,21 @@ Giant Weasel:
    - Simple
    - Melee
    
-Guard
-Kobold
+Guard:
+  CR: 0
+  Tags: 
+   - Humanoid
+   - Militant
+   - Melee OR Ranged
+
+Kobold:
+  CR: 0
+  Tags: 
+   - Beast
+   - Simple
+   - Trapper
+   - Melee
+
 Mastiff:
   CR: 0
   Tags: 
